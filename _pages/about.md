@@ -17,42 +17,100 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Laixin is currently pursuing Ph.D. degree (supervised by [Quan Li](https://faculty.sist.shanghaitech.edu.cn/liquan/)) at the [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/), ShanghaiTech University.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests span **Social Network in Game** and **VIS4HPC** (addressing HPC challengs via visual analytics approach). I design and implement visual analytics systems, deep learning algorithms (GNN, temporal models, interpretability methods), and empirical studies aimed at enhancing AI's ability to serve human needs. Additionally, I also contribute multiple codes to the SGLang community.
 
+**I am currently on the job market. If you have any relevant positions or opportunities, please feel free to reach out to me via email.**
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.3*: &nbsp;🎉🎉 A conference paper **Influence Maximization in Temporal Social Networks with a Cold-start Problem:
+A Supervised Approach** is accepted by ICWSM'25.
+- *2024.10*: &nbsp;🎉🎉 A journal paper [Deciphering Explicit and Implicit Features for Reliable, Interpretable, and Actionable User Churn Prediction in Online Video Games](https://ieeexplore.ieee.org/abstract/document/10738201) is accepted by TVCG'24.
+- *2023.07*: &nbsp;🎉🎉 A poster [**Understanding Auto-Scheduling Optimizations for Model Deployment via Visualizations**](https://arxiv.org/abs/2308.04724) is accepted by VIS'23.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICWSM 2025</div><img src='images/icwsm25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Influence Maximization in Temporal Social Networks with a Cold-start Problem: A Supervised Approach
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Laixin Xie**, Ying Zhang, Xiyuan Wang, Shiyi Liu, Shenghan Gao,
+Xingxing Xing, Wei Wan, Haipeng Zhang,Quan Li
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Arxiv**](https://arxiv.org/pdf/2504.11245) | [**Github**](https://github.com/laixinn/ICWSM25-Influence-Maximization)
+-  Researched on the cold-start problem in Influence Maximization (IM), cooperating with NetEase.
+- Proposed a efficient labeling for the IM seeds, a solution for the cold-start issue and a tensorized TGN for acceleration.
+- Employed an online A/B testing in expanding network scale for evaluation.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2025</div><img src='images/tvcg25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
+[Deciphering Explicit and Implicit Features for Reliable, Interpretable, and Actionable User Churn Prediction in Online Video Games](https://ieeexplore.ieee.org/abstract/document/10738201)
+
+Xiyuan Wang* , **Laixin Xie\*** , He Wang , Xingxing Xing , Wei Wan ,
+Ziming Wu , Xiaojuan Ma , and Quan Li (*: equal contribution)
+
+<!-- [**Video**](https://youtu.be/LyN8CXInM5g) | [**Arxiv**](https://arxiv.org/abs/2309.09744) | [**Github**](https://github.com/laixinn/CIVis) <strong><span class='show_paper_citations' data='AB_U2BoAAAAJ:u-x6o8ySG0sC'></span></strong> -->
+Video | [**Github**](https://github.com/Horanny/DontGo-Framework)
+- Researched on the practical player churn prediction, cooperating with NetEase.
+- Developed a visual analytic system, Don'tgo to conduct a what-if analysis on the root causes of player churn and to propose actionable interventions to mitigate it.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/tvcg23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Better Modeling With Missing Data: A Contrastive Learning-Based Visual Analytics Perspective](https://ieeexplore.ieee.org/abstract/document/10149378)
+
+**Laixin Xie**, Yang Ouyang, Longfei Chen, Ziming Wu, Quan Li
+
+[**Video**](https://youtu.be/LyN8CXInM5g) | [**Arxiv**](https://arxiv.org/abs/2309.09744) | [**Github**](https://github.com/laixinn/CIVis)
+- Researched how to leverage **contrastive learning** to address **missing data**, cooperating with Tencent.
+- Proposed a contrastive learning-based framework, allowing label prediction with the presence of data missing and without any imputation. 
+- Further developedd a visual analytics system, CIVis to **understand** the training process of contrastive learning and iterative refinement.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2022</div><img src='images/chi22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RoleSeer: Understanding Informal Social Role Changes in MMORPGs via Visual Analytics](https://dl.acm.org/doi/abs/10.1145/3491102.3517712)
+
+**Laixin Xie**, Ziming Wu, Peng Xu, Wei Li, Xiaojuan Ma, Quan Li
+
+[**Video**](https://www.youtube.com/watch?v=gJBLNBJDSio) ｜ [**Arxiv**](https://arxiv.org/abs/2210.10698)
+- Researched on the informal social role in MMORPGs, cooperating with Tencent and Netease.
+- Developed an adapted **dynamic network embedding** method to identify the potential informal roles from the perspective of behavioral interaction analysis
+- Proposed a visual analytics system named RoleSeer to investigate the **informal roles** from the perspectives of behavioral interactions and depict their dynamic interconversions and transitions. 
+</div>
+</div>
+
+- [VFLens: Co-design the Modeling Process for Efficient Vertical Federated Learning via Visualization](https://arxiv.org/abs/2210.00472), Yun Tian, He Wang, **Laixin Xie**, Xiaojuan Ma, Quan Li, Chinese CHI 2022
+- [Object Detection of NAO Robot Based on a Spectrum Model](https://link.springer.com/chapter/10.1007/978-3-319-95957-3_36), **Laixin Xie**, Chunhua Deng, ICIC 2018
+- [Dimensionality Deduction for Action Proposals: To Extract or to Select?](https://link.springer.com/chapter/10.1007/978-3-319-95957-3_37), Jian Jiang, Haoyu Wang, **Laixin Xie**, Junwen Zhang, Chunhua Deng, ICIC2018
+
+<!---
+# 🎖 Honors and Awards  
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+--->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - present*, PhD, ShanghaiTech University, Shanghai
+- *2015.09 - 2019.06*, Undergraduate, Wuhan University of Science and Technology, Wuhan
 
-# 💬 Invited Talks
+<!---
+# 💬 Invited Talks 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. \| [\[video\]](https://github.com/) 
+--->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.12 - present*, Machine Learning Engineer in Meituan, Beijing
+- *2023.09 - 2024.03*, Hong Kong University of Science and Technology (HKUST), Supervised by [Xiaojuan Ma](https://www.cse.ust.hk/~mxj/), Hong Kong
+- *2022.11 - 2023.9*, User eXperience (UX) in Netease, Shanghai
+- *2021.12 - 2022.6*, Interactive Entertainment Group (IEG) in Tencent (Supervised by [Ziming Wu](https://scholar.google.com/citations?user=gDsBVKAAAAAJ)), Shenzhen
